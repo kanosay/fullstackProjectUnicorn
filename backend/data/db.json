@@ -1,0 +1,37 @@
+{
+  "movie": [],
+  "favorite": [
+    {
+      "id": "9355624f-553b-4a12-88d3-d162cb8994c3",
+      "userId": "demo-user",
+      "tmdbId": 83533,
+      "title": "Avatar: Fire and Ash",
+      "posterPath": "/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+      "createdAt": "2026-04-28T09:02:51.796Z"
+    },
+    {
+      "id": "6caa3a62-1d68-47f8-9c13-6d963b74b973",
+      "userId": "demo-user",
+      "tmdbId": 931285,
+      "title": "Mortal Kombat II",
+      "posterPath": "/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+      "createdAt": "2026-04-28T09:02:52.906Z"
+    },
+    {
+      "id": "1ce23e56-22bc-4d3e-864e-c5a979ea3b57",
+      "userId": "demo-user",
+      "tmdbId": 1450527,
+      "title": "Forbidden Fruits",
+      "posterPath": "/t3hvrrrqvRoURz4y1A1aCys6WD9.jpg",
+      "createdAt": "2026-04-28T09:02:53.665Z"
+    },
+    {
+      "id": "7fcee2ac-b7f1-4413-b50e-c985f485a2b2",
+      "userId": "demo-user",
+      "tmdbId": 1368166,
+      "title": "The Housemaid",
+      "posterPath": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "createdAt": "2026-04-28T09:02:54.575Z"
+    }
+  ]
+}
